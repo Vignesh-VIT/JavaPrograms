@@ -3,7 +3,7 @@ public class AddTwoIntegers {
     public static void main(String[] args) {
         //Additon of two numbers
         
-        int first = 30;
+        int first = 40;
         int second = 90;
 
         System.out.println("Enter two numbers: " + first + " " + second);
