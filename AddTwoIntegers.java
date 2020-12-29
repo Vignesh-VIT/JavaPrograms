@@ -1,7 +1,7 @@
 public class AddTwoIntegers {
 
     public static void main(String[] args) {
-        //Additon of two numbers
+        
         
         int first = 40;
         int second = 90;
