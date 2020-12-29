@@ -1,6 +1,7 @@
 public class AddTwoIntegers {
 
     public static void main(String[] args) {
+        //Additon of two numbers
         
         int first = 30;
         int second = 30;
